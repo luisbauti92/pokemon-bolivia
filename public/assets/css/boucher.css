@@ -1,0 +1,29 @@
+
+
+h1 {
+    border-top: 1px solid  #5D6975;
+    border-bottom: 1px solid  #5D6975;
+    color: #5D6975;
+    font-size: 2.4em;
+    line-height: 1.4em;
+    font-weight: normal;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+#clasico {
+
+    background-image: url("http://pokemon-bolivia.tk/archivos/imagenes/logo.jpg");
+    background-repeat:no-repeat;
+    background-size:100%;
+    width:250px;
+    height:250px;
+    filter:alpha(opacity=25);
+    -moz-opacity:.25;
+    opacity:.25;
+    float: left
+} 
+#clasico2{
+    float: left;
+    width: 450px;
+    
+}
